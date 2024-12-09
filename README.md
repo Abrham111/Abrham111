@@ -3,8 +3,7 @@
 🔭 I’m currently working as a Frontend Developer
 🌱 I’m currently learning Machine Learning
 💬 Ask me about anything that I can help with
-📫 How to reach me 
-https://www.linkedin.com/in/abrham-berie-beit/
+📫 How to reach me https://www.linkedin.com/in/abrham-berie-beit/
 <!--
 **Abrham111/Abrham111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
