@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrham Bayih</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A frontend developer && A computer engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrham111" alt="abrham111" /></a> </p>
 
