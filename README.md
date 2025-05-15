@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrham Bayih</h1>
-<h3 align="center">A frontend developer && A computer engineer</h3>
+<h3 align="center">A fullstack developer && A computer engineer</h3>
 
 - 🔭 I’m currently working on **ML projcts**
 
